@@ -30,8 +30,9 @@ There are two methods to run this project:
 ### The first method - easy one
 1. Download the file named *HD Map Application*
 2. Find the file named *dist*
-3. There are two exe files in *dist*, if you are using MAC OS system, feel free to choose any of them.
-4. Right click one of the exe file.
+3. There are two files in *dist*. The first one is an exe file, and the second one is openHDMaps.app. If you are using MAC OS system, feel free to right click any one of them. If you are using Windows, right click the second one.<br>
+  <img width="249" alt="图片" src="https://user-images.githubusercontent.com/55254825/162119295-0fb3ec4c-0914-4cb5-8eb0-18a08663a9bb.png">
+
 ### The second method
 1. Go though the setup part and install all modules needed
 2. Download the file named *HD Map Application*
